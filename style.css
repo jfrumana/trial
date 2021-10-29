@@ -1,0 +1,23 @@
+#tashead {
+    color: aqua;
+}
+
+.tasmi{
+    font-family: 'Caveat Brush', cursive;
+    background-color:rebeccapurple ;
+}
+.tais{
+    color:saddlebrown;
+    font-size:20px;
+    font-family: cursive;
+}
+.baby{
+    font-size:20px;
+    /*background-color: violet;*/
+    font-family: 'Kirang Haerang', cursive;
+    box-shadow: 5px 5px 18px black;
+}
+.mohsin{
+    font-size: 24px;
+    color: brown;
+}
